@@ -1,8 +1,6 @@
 .svn/
 .git/
-html/
 *.bak
-*.html
 *.zip
 *.txt
 *.pdf
